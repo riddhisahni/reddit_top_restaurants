@@ -1,4 +1,4 @@
-# reddit_top_restaurants
+# Top Restaurants in Various Cities Based on Reddit Reviews
 
 Discover more about our project in our blog post linked below!
 
